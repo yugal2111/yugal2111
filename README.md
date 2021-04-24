@@ -1,8 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Yugal Mali </h1>
 <h3 align="center">Aspiring Software Engineer Developer</h3>
 
+
+
 </p>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
+
+
 
 - 🌱 I’m currently learning **Android Development**
 

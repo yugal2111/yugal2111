@@ -12,6 +12,8 @@
 
 - 🔭 I’m currently working on **java spring boot**
 
+- 👨‍💻 All of my projects are available at https://yugal2111.github.io/
+
 - 📫 How to reach me **yugalmali198@gmail.com**
 
 - ⚡ Fun fact **I think I am an 'ENGINEER' XD**

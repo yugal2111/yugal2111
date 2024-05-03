@@ -23,7 +23,7 @@
 <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://a0.awsstatic.com/main/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="40" height="40"/></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugal2111&show_icons=true&locale=en&layout=compact" alt="yugal2111" /></p>
